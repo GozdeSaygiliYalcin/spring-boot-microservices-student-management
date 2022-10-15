@@ -1,0 +1,10 @@
+server:
+  port: 9099
+
+spring:
+  elasticsearch:
+    uris: http://localhost:9200
+
+studentapplication:
+  url:
+    student: http://localhost:9090/

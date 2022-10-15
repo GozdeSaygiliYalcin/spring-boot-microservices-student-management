@@ -1,0 +1,6 @@
+rootProject.name = 'Microservices-Boost'
+include 'elastic-service'
+include 'main-service'
+include 'elastic-service'
+include 'student-main-service'
+
